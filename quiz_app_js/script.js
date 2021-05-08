@@ -37,10 +37,10 @@ const quizDB=[
         b:"Ron Weasley",
         c:"Harry Potter",
         d:"Oliver Wood",
-        ans:"ans1"
+            ans:"ans1"
     },
     {
-        question: "How would you spell the spell you would use to disarm someone?" ,
+        question: "V2hhdCBpcyB0aGUgc3BlbGwgdXNlZCB0byBkaXNhcm0gc29tZW9uZT8=" ,
         a:"Capacious Extremis",
         b:"Expelliarmus",
         c:"Disapparate",
@@ -48,7 +48,7 @@ const quizDB=[
         ans:"ans2"
     },
     {
-        question: "What was the first Horcrux to be destroyed?",
+        question: "Jung jnf gur svefg Ubepehk gb or qrfgeblrq?",
         a:"Marvolo Gaunt's Ring",
         b:"Salazar Slytherin's Locket",
         c:"Tom Riddle's diary",
@@ -56,7 +56,7 @@ const quizDB=[
         ans:"ans3"
     },
     {
-        question: "What creature is Aragog?",
+        question: "VjJoaGRDQmpjbVZoZEhWeVpTQnBjeUJCY21GbmIyYy8=",
         a:"Dementors",
         b:"Obscurus",
         c:"Acromantula",
@@ -64,7 +64,7 @@ const quizDB=[
         ans:"ans3"
     },
     {
-        question: "And what platform do students need to catch it from at King's Cross?",
+        question: "(92E A=2E7@C> 5@ DEF56?ED ?665 E@ 42E49 E96 EC2:? 2E z:?8VD rC@DD $E2E:@?n",
         a:"Platform 9 3/4",
         b:"Platform 8 2/4 ",
         c:"Platform 11 3/2",
@@ -72,11 +72,10 @@ const quizDB=[
         ans:"ans1"
     },
     {
-        question: "Spell the incantation for one of the Half-Blood Prince’s spells",
+        question: "U3BlbGwgdGhlIGluY2FudGF0aW9uIGZvciBvbmUgb2YgdGhlIEhhbGYtQmxvb2QgUHJpbmNl4oCZcyBzcGVsbHM=",
         a:"Finite Incantatem",
         b:"Impedimenta",
         c:"Sectumsempra",
-        d:"Legilimens",
         ans:"ans3"
     },
     
