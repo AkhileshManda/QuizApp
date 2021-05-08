@@ -40,7 +40,7 @@ const quizDB=[
         ans:"ans4"
     },
     {
-        question: "From where did the Ancient One draw her powers to become immortal?",
+        question: "RnJvbSB3aGVyZSBkaWQgdGhlIEFuY2llbnQgT25lIGRyYXcgaGVyIHBvd2VycyB0byBiZWNvbWUgaW1tb3J0YWw/",
         a:"From a Cafe",
         b:"From The New York Sanctrum",
         c:"From The Dark Dimension",
@@ -48,7 +48,7 @@ const quizDB=[
         ans:"ans3"
     },
     {
-        question: "'We don't lose our demons, Mordo. We only learn to live above them.' Was said by?",
+        question: "V(6 5@?VE =@D6 @FC 56>@?D[ |@C5@] (6 @?=J =62C? E@ =:G6 23@G6 E96>]V (2D D2:5 3Jn",
         a:"Dr.Strange",
         b:"Dormamu",
         c:"Kaecilius",
@@ -56,7 +56,7 @@ const quizDB=[
         ans:"ans4"
     },
     {
-        question: "Name the Book that Kaecilius tore pages from",
+        question: "TmFtZSB0aGUgQm9vayB0aGF0IEthZWNpbGl1cyB0b3JlIHBhZ2VzIGZyb20=",
         a:"Diary of The Ancient One",
         b:"Book of Cagliostro",
         c:"Road To The Dark Dimension",
@@ -64,7 +64,7 @@ const quizDB=[
         ans:"ans2"
     },
     {
-        question: "How did Dr.Strange get Dormamu to take his troops away from Earth?",
+        question: "Ubj qvq Qe.Fgenatr trg Qbeznzh gb gnxr uvf gebbcf njnl sebz Rnegu?",
         a:"Using an endless Time Loop to Bargain",
         b:"Using the most powerfull Magic Spell",
         c:"Begged Dormamu to leave!",
@@ -72,7 +72,7 @@ const quizDB=[
         ans:"ans1"
     }, 
     {
-        question: "'Just Wong? Like Adele?' Was said by?",
+        question: "U25WemRDQlhiMjVuUHlCTWFXdGxJRUZrWld4bFB5Y2dWMkZ6SUhOaGFXUWdZbmsv",
         a:"Mordo",
         b:"Chrisitine Palmer",
         c:"Stan Lee(the Bus Driver)",
