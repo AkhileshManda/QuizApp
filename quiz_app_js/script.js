@@ -1,11 +1,11 @@
 const quizDB=[
     {
-        question: "Q1 HP",
-        a:"Option1 q1",
-        b:"Option2 q1",
-        c:"Option3 q1",
-        d:"Option4 q1",
-        ans:"ans4"
+        question: "Who is Harry Potter's godfather?",
+        a:"Lord Voldemort",
+        b:"Sirius Black",
+        c:"Draco Malfoy",
+        d:"Dumbledore",
+        ans:"ans2"
     },
     {
         question: "Q2",
